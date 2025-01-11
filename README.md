@@ -5,3 +5,5 @@ belajar git
 fufufafa
 
 ayo ayo
+
+ilmu komputer
