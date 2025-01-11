@@ -5,3 +5,7 @@ belajar git
 fufufafa
 
 ayo ayo
+
+ilmu komputer
+
+unj ptn-bh
