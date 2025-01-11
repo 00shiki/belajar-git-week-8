@@ -6,4 +6,8 @@ fufufafa
 
 ayo ayo
 
+<<<<<<< HEAD
 ilmu komputer
+=======
+unj ptn-bh
+>>>>>>> 1aaea9f (add new message)
